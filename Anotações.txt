@@ -1,0 +1,40 @@
+João Pedro Meurer Dias - a2461110
+
+
+* Muitas vezes, chamo o bloco(onde fica a informação) de nodo, espero que isso não seja um erro.
+
+
+* Sinto que poderia ter feito algumas coisas melhores, como fazer apenas uma função remove, uma busca e um insere, 
+mas achei mais facil fazer uma para cada.
+
+
+* Acho que poderia ter feito as buscas retornarem o "nodo" e o remove só remover, em vez da propria função 
+remove buscar e remover o "nodo".
+
+
+* Não gostei de fazer a funçao remove com um inteiro como parametro para fazer diferentes coisas dependendo
+desse inteiro, mas foi a opção de mais facil implementação que pensei.
+
+
+* Acho que tem jeitos melhores de passar as novas informações pro bloco banco.txt, a minha funçao finaliza
+pareceu meio ineficiente.
+
+
+* Não sei se é problema do meu pc, ou do proprio codigo, mas tem vezes que eu rodo o programa e ele não pega
+uma das informações do banco.txt nem da entrada do usuario, as vezes ele não pega a variavel banco, chave e
+conta, como mandei pro senhor ver oq tava errado e no seu rodava certo, não me preocupei muito com isso.
+
+
+* Não estava pensando em fazer bibliotecas, mas falei com um amigo e decidi fazer á que fiz tudo na main.c na
+primeira vez, não consegui faer uma trie pro cpf e uma pra chave porque tinha determindas funções que uma chamava
+a outro, no caso, a função remove 
+
+
+
+
+
+
+
+
+
+
